@@ -19,13 +19,13 @@ Nuestro reto es explorar y analizar los datos, identificar patrones del **Abando
 ├── 📄 TelecomX_LATAM.ipynb<br>
 ├── 📄 TelecomX_Data.json<br>
 ├── 📄 TelecomX_diccionario.md<br>
-└── 📁 imagenes/<br>
-    ├── abandono.png<br>
-    ├── abandono.html<br>
-    ├── dependientes.png<br>
-    ├── dependientes.html<br>
-    ├── ...<br>
-    └── matriz_de_correlacion.png<br>
+└── 📁 imagenes/
+    ├── abandono.png
+    ├── abandono.html
+    ├── dependientes.png
+    ├── dependientes.html
+    ├── ...
+    └── matriz_de_correlacion.png
 
 ## 🛠️ Tecnologías y Librerías Usadas
 
