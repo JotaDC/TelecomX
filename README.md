@@ -14,6 +14,7 @@ Nuestro reto es explorar y analizar los datos, identificar patrones del **Abando
 ✅ Elaboración de una recomendación basada en datos<br>
 
 ## 🗂️ Estructura del Proyecto
+```plaintext
 📦 TelecomX<br>
 ├── 📄 README.md<br>
 ├── 📄 TelecomX_LATAM.ipynb<br>
@@ -26,6 +27,7 @@ Nuestro reto es explorar y analizar los datos, identificar patrones del **Abando
     ├── dependientes.html
     ├── ...
     └── matriz_de_correlacion.png
+```
 
 ## 🛠️ Tecnologías y Librerías Usadas
 
