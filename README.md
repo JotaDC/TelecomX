@@ -10,7 +10,7 @@ Nuestro reto es explorar y analizar los datos, identificar patrones del **Abando
 ✅ Normalizacion de los Datos<br>
 ✅ Limpieza (Datos nulos, duplicado) y Transformación<br>
 ✅ Creación de visualizaciones con Plotly<br>
-✅ Busqueda de Insight<br>
+✅ Conclusiones e Insights<br>
 ✅ Elaboración de una recomendación basada en datos<br>
 
 ## 🗂️ Estructura del Proyecto
