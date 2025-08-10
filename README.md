@@ -6,12 +6,12 @@
 Nuestro reto es explorar y analizar los datos, identificar patrones del **Abandono** y generar recomendaciones estratégicas basadas en análisis descriptivo y visualizaciones. El análisis servirá como base para modelos predictivos futuros.
 
 ## 🧠 ¿Qué tareas se realizaron?
--✅ Extracción y carga de datos JSON desde una API
--✅ Normalizacion de los Datos
--✅ Limpieza (Datos nulos, duplicado) y Transformación
--✅ Creación de visualizaciones con Plotly
--✅ Busqueda de Insight
--✅ Elaboración de una recomendación basada en datos
+-✅ Extracción y carga de datos JSON desde una API<br>
+-✅ Normalizacion de los Datos<br>
+-✅ Limpieza (Datos nulos, duplicado) y Transformación<br>
+-✅ Creación de visualizaciones con Plotly<br>
+-✅ Busqueda de Insight<br>
+-✅ Elaboración de una recomendación basada en datos<br>
 
 ## 🗂️ Estructura del Proyecto
 📦 TelecomX
@@ -29,10 +29,10 @@ Nuestro reto es explorar y analizar los datos, identificar patrones del **Abando
 
 ## 🛠️ Tecnologías y Librerías Usadas
 
--✅ Python
--✅ Pandas, Numpy
--✅ Matplotlib, Seaborn, Plotly
--✅ Google Colab
+-✅ Python<br>
+-✅ Pandas, Numpy<br>
+-✅ Matplotlib, Seaborn, Plotly<br>
+-✅ Google Colab<br>
 
 ## 🚀 Requisitos para ejecutar el proyecto
 
