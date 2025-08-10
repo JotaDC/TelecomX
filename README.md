@@ -50,7 +50,7 @@ cd proyecto-telecomx`
 
 3. Abre el notebook:
 
-Luego, abre el archivo alura_store_analysis.ipynb con Jupyter Notebook o cualquier entorno compatible para ejecutar y explorar el análisis.
+Luego, abre el archivo TelecomX_LATAM.ipynb con Jupyter Notebook, Google Colab o cualquier entorno compatible para ejecutar y explorar el análisis.
 
 ## 📌 Autor
 
