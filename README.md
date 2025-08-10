@@ -6,33 +6,33 @@
 Nuestro reto es explorar y analizar los datos, identificar patrones del **Abandono** y generar recomendaciones estratégicas basadas en análisis descriptivo y visualizaciones. El análisis servirá como base para modelos predictivos futuros.
 
 ## 🧠 ¿Qué tareas se realizaron?
--✅ Extracción y carga de datos JSON desde una API<br>
--✅ Normalizacion de los Datos<br>
--✅ Limpieza (Datos nulos, duplicado) y Transformación<br>
--✅ Creación de visualizaciones con Plotly<br>
--✅ Busqueda de Insight<br>
--✅ Elaboración de una recomendación basada en datos<br>
+✅ Extracción y carga de datos JSON desde una API<br>
+✅ Normalizacion de los Datos<br>
+✅ Limpieza (Datos nulos, duplicado) y Transformación<br>
+✅ Creación de visualizaciones con Plotly<br>
+✅ Busqueda de Insight<br>
+✅ Elaboración de una recomendación basada en datos<br>
 
 ## 🗂️ Estructura del Proyecto
-📦 TelecomX
-├── 📄 README.md
-├── 📄 TelecomX_LATAM.ipynb
-├── 📄 TelecomX_Data.json
-├── 📄 TelecomX_diccionario.md
-└── 📁 imagenes/
-    ├── abandono.png
-    ├── abandono.html
-    ├── dependientes.png
-    ├── dependientes.html
-    ├── ...
-    └── matriz_de_correlacion.png
+📦 TelecomX<br>
+├── 📄 README.md<br>
+├── 📄 TelecomX_LATAM.ipynb<br>
+├── 📄 TelecomX_Data.json<br>
+├── 📄 TelecomX_diccionario.md<br>
+└── 📁 imagenes/<br>
+    ├── abandono.png<br>
+    ├── abandono.html<br>
+    ├── dependientes.png<br>
+    ├── dependientes.html<br>
+    ├── ...<br>
+    └── matriz_de_correlacion.png<br>
 
 ## 🛠️ Tecnologías y Librerías Usadas
 
--✅ Python<br>
--✅ Pandas, Numpy<br>
--✅ Matplotlib, Seaborn, Plotly<br>
--✅ Google Colab<br>
+✅ Python<br>
+✅ Pandas, Numpy<br>
+✅ Matplotlib, Seaborn, Plotly<br>
+✅ Google Colab<br>
 
 ## 🚀 Requisitos para ejecutar el proyecto
 
@@ -46,7 +46,7 @@ cd proyecto-telecomx`
 
 `pip install pandas matplotlib seaborn ploply kaleido`
 
-3 Abre el notebook:
+3. Abre el notebook:
 
 Luego, abre el archivo alura_store_analysis.ipynb con Jupyter Notebook o cualquier entorno compatible para ejecutar y explorar el análisis.
 
