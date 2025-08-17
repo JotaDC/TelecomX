@@ -20,6 +20,7 @@ Nuestro reto es explorar y analizar los datos, identificar patrones del **Abando
 ├── 📄 TelecomX_LATAM.ipynb<br>
 ├── 📄 TelecomX_Data.json<br>
 ├── 📄 TelecomX_diccionario.md<br>
+├── 📄 datos_tratados.csv<br>
 └── 📁 imagenes/
     ├── abandono.png
     ├── abandono.html
