@@ -16,11 +16,11 @@ Nuestro reto es explorar y analizar los datos, identificar patrones del **Abando
 ## 🗂️ Estructura del Proyecto
 ```plaintext
 📦 TelecomX<br>
-├── 📄 README.md<br>
-├── 📄 TelecomX_LATAM.ipynb<br>
-├── 📄 TelecomX_Data.json<br>
-├── 📄 TelecomX_diccionario.md<br>
-├── 📄 datos_tratados.csv<br>
+├── 📄 README.md
+├── 📄 TelecomX_LATAM.ipynb
+├── 📄 TelecomX_Data.json
+├── 📄 TelecomX_diccionario.md
+├── 📄 datos_tratados.csv
 └── 📁 imagenes/
     ├── abandono.png
     ├── abandono.html
